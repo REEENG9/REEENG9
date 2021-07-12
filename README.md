@@ -3,7 +3,7 @@
 
 - **🙋‍♀️ Frontend oriented**   
     - 📧 qkdwlals613@naver.com   
-    - 📝 [github blog](#)   
+    - 📝 [github blog](REEENG9.github.io)   
 
 - **🎨 rkgk**   
     - 🖌 [네이버 블로그](http://blog.naver.com/qkdwlals613)   
