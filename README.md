@@ -25,6 +25,6 @@
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-D19CE2?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
-## 📢 Projects in Progress
+## 📢 Toy Projects in Progress
 - [알고리즘 문제풀이 스타터 프로젝트](https://github.com/REEENG9/algorithm_study) (July 2021 ~)
 - [개인 커미션 홍보 웹 페이지](https://github.com/REEENG9/Commission-page) (August 2021~) 
