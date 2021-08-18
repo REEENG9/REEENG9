@@ -10,7 +10,7 @@
 - **🎨 rkgk**   
     - 🖌 [네이버 블로그](http://blog.naver.com/qkdwlals613)   
     - 🖌 [트위터](https://twitter.com/brlamb_04)   
-    - 🖌 [:)](https://scratch.mit.edu/projects/473178997)   
+    - 🖌 [:>](https://scratch.mit.edu/projects/473178997)   
 
 
 
