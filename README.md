@@ -5,7 +5,7 @@
 
 - **🙋‍♀️ Frontend oriented**   
     - 📧 qkdwlals613@naver.com   
-    - 📝 [github blog](http://REEENG9.github.io/)   
+    - 📝 [github blog](*)   
 
 - **🎨 rkgk**     
     - 🖌 [트위터](https://twitter.com/brlamb_04)   
