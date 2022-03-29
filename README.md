@@ -1,5 +1,5 @@
 ## 🐏 NON-Major Development
-> *Life Sucks without Skills* 🙄
+> *ㅎㅎ* 🙄
 
 <p align="left"><img src="https://user-images.githubusercontent.com/77262012/126252543-d68d67e3-e3c6-44ce-89d1-cfb54d181180.gif" height="100" width="110"></p>
 
@@ -7,8 +7,7 @@
     - 📧 qkdwlals613@naver.com   
     - 📝 [github blog](http://REEENG9.github.io/)   
 
-- **🎨 rkgk**   
-    - 🖌 [네이버 블로그](http://blog.naver.com/qkdwlals613)   
+- **🎨 rkgk**     
     - 🖌 [트위터](https://twitter.com/brlamb_04)   
     - 🖌 [:>](https://scratch.mit.edu/projects/473178997)   
 
@@ -26,5 +25,5 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-D19CE2?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 ## 📢 Toy Projects in Progress
-- [알고리즘 문제풀이 스타터 프로젝트](https://github.com/REEENG9/algorithm_study) (July 2021 ~)
-- [개인 커미션 홍보 웹 페이지](https://github.com/REEENG9/Commission-page) (August 2021~) 
+- [하계방학 알고리즘 문제풀이](https://github.com/REEENG9/algorithm_study) (July 2021 ~)
+- [커미션 홍보 웹 페이지](https://github.com/REEENG9/Commission-page) (August 2021~) 
