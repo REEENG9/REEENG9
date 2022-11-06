@@ -1,4 +1,7 @@
 ## 🐏 NON-Major Development
-> *ㅎㅎ*
-<p align="left"><img src="https://user-images.githubusercontent.com/77262012/126252543-d68d67e3-e3c6-44ce-89d1-cfb54d181180.gif" height="100" width="110"></p>
+> (._.)Oo.
+<p align="left"><img src="https://user-images.githubusercontent.com/77262012/200181412-3c7f89d6-118b-4c9a-af44-3bbdce52a2b3.png" height="200" width="200"></p>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=reeeng9)](https://solved.ac/reeeng9)
 
